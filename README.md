@@ -1,4 +1,4 @@
-# Full Stack Individual Project - Food
+# Genisum
 
 ![ScreenShoot1](https://github.com/Nagarehazh/genisum/blob/main/src/assets/genisum.jpg) <br /><br />
 ![ScreenShoot1](https://github.com/Nagarehazh/genisum/blob/main/src/assets/sumary.png) <br /><br />
